@@ -1,4 +1,4 @@
-# Protobuf Hex Decoder
+# Protobuf-Hex-Inspector
 
 A lightweight, client-side web tool to decode **schema-less Protobuf HEX payloads** into structured JSON.
 
